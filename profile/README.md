@@ -12,9 +12,10 @@
 
 | 專案 | 說明 |
 |------|------|
+| [gyoza-ai-box](https://github.com/gyozalab/gyoza-ai-box) | 把抽象的 AI 與統計概念，做成可以用滑鼠動手摸的互動網頁 |
 | [QuotaGem](https://github.com/gyozalab/QuotaGem) | Windows 系統匣 App，把 Claude 和 Codex 的用量整合在一個地方查看 |
 | [focustodo-mcp](https://github.com/gyozalab/focustodo-mcp) | Focus To-Do 沒有開放 API，所以我自己逆向工程做了一個 MCP，讓 Claude 可以直接操作番茄鐘任務 |
-| [google-cybersecurity-notes](https://github.com/gyozalab/google-cybersecurity-notes) | Google Cybersecurity Certificate 的中文學習筆記，把全英文課程內容整理成 Obsidian 格式，方便快速複習 |
+| [gyoza-course-notes](https://github.com/gyozalab/gyoza-course-notes) | 線上課程的中文學習筆記，用 Quartz 建成可搜尋的筆記網站 [→ 看筆記](https://gyozalab.github.io/gyoza-course-notes/) |
 
 ---
 
